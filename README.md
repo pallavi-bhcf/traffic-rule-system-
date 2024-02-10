@@ -5,19 +5,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git">
+  <a href="https://github.com/pallavi-bhcf/>
     <img src="main_black.png" width="300" height="250">
   </a>
 
-  <h1 align="center">CROWD DETECTION SYSTEM</h1>
+  <h1 align="center">Traffic Rules Violation Detection and Monitoring System in Campus</h1>
   <p align="Justify">
-    A crowd detection system is a technological solution designed to identify, monitor, and analyze the presence and behavior of crowds within a given area. This system typically relies on advanced sensor technologies, such as surveillance cameras, lidar, radar, or a combination of these, along with sophisticated software algorithms, often utilizing computer vision and machine learning techniques.
+   With the increasing number of vehicles, managing traffic and enforcing traffic laws has become a challenge. This project proposes a solution based on Computer Vision to automatically detect traffic rule violators within a campus environment. The system aims to detect violations such as overspeeding, triple riding, and failure to wear helmets.
+Platform/Language Used: Python3, OpenCV, dlib
+Technology Domain: Image and Video Processing, Computer Vision.
     <br />
     </p>
   <p align="center">
-    <a href="https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git"><strong>View Demo » </strong></a>
+    <a href="https://github.com/pallavi-bhcf/Traffic Rules Violation Detection and Monitoring System in Campus.git"><strong>View Demo » </strong></a>
     ||
-    <a href=""https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git""><strong>Explore the docs » </strong></a>
+    <a href=""https://github.com/pallavi-bhcf/Traffic Rules Violation Detection and Monitoring System in Campus.git""><strong>Explore the docs » </strong></a>
   </p>
 </div>
 
@@ -52,14 +54,15 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
- <P><STRONG>Crowd Detection Systems</STRONG> are increasingly being deployed in various environments and settings. These systems are utilized in public spaces, events, transportation hubs, and other crowded areas to monitor and analyze crowd dynamics in real-time. The widespread deployment of crowd detection systems is driven by the need for enhanced public safety, security, and operational efficiency.</P>
+ <P><STRONG>Traffic Rules Violation Detection and Monitoring System in Campus</STRONG>
+  With the increasing number of vehicles, managing traffic and enforcing traffic laws has become a challenge. This project proposes a solution based on Computer Vision to automatically detect traffic rule violators within a campus environment. The system aims to detect violations such as overspeeding, triple riding, and failure to wear helmets.
+Platform/Language Used: Python3, OpenCV, dlib
+Technology Domain: Image and Video Processing, Computer Vision.</P>
 <br /><br />
     <br />
     <br />
     <br />
     <div align="center">
-  <a href="https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git">
-    <img src="Logo/image.jpg" alt="Logo" width="300" height="250">
   </a>
 </div>
 <br /><br />
