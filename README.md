@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git">
-    <img src="Logo/main_black.png" alt="Logo" width="300" height="250">
+    <img src="main_black.png" width="300" height="250">
   </a>
 
   <h1 align="center">CROWD DETECTION SYSTEM</h1>
