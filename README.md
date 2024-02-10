@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/pallavi-bhcf/>
-    <img src="main_black.png" width="300" height="250">
+    <img src="main_black.png" width="200" height="250">
   </a>
 
   <h1 align="center">Traffic Rules Violation Detection and Monitoring System in Campus</h1>
