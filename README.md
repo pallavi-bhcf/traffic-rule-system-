@@ -1,13 +1,6 @@
-# traffic-rule-system-
+
 <a name="readme-top"></a>
 
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/pallavi-bhcf/>
-    <img src="main_black.png" width="200" height="250">
-  </a>
 
   <h1 align="center">Traffic Rules Violation Detection and Monitoring System in Campus</h1>
   <p align="Justify">
@@ -79,14 +72,9 @@ The technology employs sensors, cameras, and advanced algorithms to track crowd 
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![OpenCV][OpenCV.shield]][OpenCV.url]
-* [![Python][Python.shield]][Python.url]
-* [![Keras][Keras.shield]][Keras.url]
-* [![TensorFlow][TensorFlow.shield]][TensorFlow.url]
-* [![Machine Learning Algorithms][ML.shield]][ML.url]
-* [![Cloud Computing][Cloud.shield]][Cloud.url]
-* [![Human-Computer Interaction (HCI)][HCI.shield]][HCI.url]
-
+* [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+* [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+* [![dlib](https://img.shields.io/badge/dlib-4B0082?style=for-the-badge&logo=dlib&logoColor=white)](http://dlib.net/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -96,43 +84,42 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 <p align="Justify">
-CrowdSense is an innovative Crowd Detection Systems designed to enhance public safety and optimize urban planning by leveraging advanced technologies. Integrating Computer Vision and Deep Learning, CrowdSense gathers and processes real-time data from surveillance cameras and other sensors to monitor and analyze crowd dynamics. Unlike conventional systems that provide generic crowd information, CrowdSense tailors its insights based on specific environmental factors and user-defined parameters.
-
+The Traffic Rules Violation Detection and Monitoring System is designed to automate the process of monitoring and enforcing traffic regulations within a specific area, such as a campus environment. By utilizing Computer Vision techniques, the system can detect various traffic rule violations, including overspeeding, triple riding, and failure to wear helmets. This guide will walk you through the initial setup and usage of the system.
 </P>
 <br>
 
 ### What it does
 <br>
+The Traffic Rules Violation Detection and Monitoring System uses Computer Vision techniques to automatically detect traffic rule violations within a campus environment. The system is capable of detecting violations such as overspeeding, triple riding, and failure to wear helmets
 
 <ul>
-  <li><b>Behavioral Analysis and Anomaly Detection:</b>
-CrowdSense goes beyond basic crowd counting by employing advanced behavioral analysis. It detects anomalies within the crowd, such as sudden movements, unusual patterns, or behaviors that deviate from the norm, aiding in early identification of potential security threats.
+  <li><b>Detection Capabilities:</b>
+  Overspeeding: The system can detect vehicles exceeding the speed limit within the campus premises.
+Triple Riding: Innovative feature of the system includes accurate detection of triple riding on motorcycles, contributing to safer traffic management.
+Helmet Detection: The system identifies instances where riders fail to wear helmets, promoting helmet safety.
+
     </li>
   <br>
   
-  <li><b>Crowd Sentiment Analysis:</b>
-  CrowdSense incorporates sentiment analysis into its features, gauging the overall mood of the crowd. This valuable insight aids in understanding the emotional context of gatherings, which can be crucial for event planning, public relations, and emergency response.
+  
+
+Detection Capabilities:
+Overspeeding: The system can detect vehicles exceeding the speed limit within the campus premises.
+Triple Riding: Innovative feature of the system includes accurate detection of triple riding on motorcycles, contributing to safer traffic management.
+Helmet Detection: The system identifies instances where riders fail to wear helmets, promoting helmet safety.
         </li>
   <br>
-  
-  <li><b>Predictive Modeling for Crowd Trends:</b>
-    Leveraging machine learning algorithms, CrowdSense goes beyond current crowd conditions to predict future trends. It considers historical data, weather forecasts, and previous event patterns to anticipate potential crowd surges or changes in behavior.
-    </ul>
-<br>
 
 <!-- WHY IT'S USEFUL -->
 ### Why it's Useful
-<ul><br>
-  <li><strong>Enhanced Public Safety:</strong> CrowdSense contributes to improved public safety by providing real-time insights into crowd behavior, enabling authorities to proactively address potential security threats or emergency situations.</li>
-  <br>
-  <li><strong>Optimal Resource Allocation:</strong> The system aids in optimizing resource allocation by offering data-driven recommendations for crowd management, ensuring efficient deployment of personnel and resources during events or in public spaces.</li>
-  <br>
-  <li><strong>Smart Urban Planning:</strong> CrowdSense assists in smart urban planning by providing valuable data on crowd movement, density, and behavior. This information can be utilized to optimize public spaces, transportation routes, and infrastructure development.</li>
-  <br>
-   <li><strong>Timely Emergency Response:</strong> With its real-time monitoring capabilities, CrowdSense facilitates timely and informed emergency responses, helping mitigate risks and ensuring the safety of individuals in crowded environments.</li>
-</ul>
 <br>
-    
+The Traffic Rules Violation Detection and Monitoring System addresses the challenges associated with managing traffic and enforcing traffic laws within a campus environment. Here's why it's useful:
+<ul><br>
+Automated Detection: The system automates the process of identifying traffic rule violations, reducing the need for manual monitoring and enforcement.
+Enhanced Safety: By detecting violations such as overspeeding and failure to wear helmets, the system contributes to enhancing safety for campus residents and commuters.
+Efficient Traffic Management: With accurate detection capabilities, the system enables more efficient traffic management, leading to smoother flow of vehicles within the campus.
+Data Insights: The system provides valuable data insights into traffic patterns and rule violations, which can be used for future planning and decision-making regarding traffic regulations.
+
 <!-- PREREQUISITES -->
 ### Prerequisites
 
