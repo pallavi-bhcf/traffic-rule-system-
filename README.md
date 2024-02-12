@@ -94,17 +94,19 @@ The technologies ,tools and the framework used to develop this project are liste
 <!-- GETTING STARTED -->
 ## Getting Started
 <p align="Justify">
-<h1>Computer Vision Project</h1>
+<h2>setuo Enivronmet</h2>
+<ol>
+  <li>nstall Python</li>
+  <li>Set up a virtual environment.</li>
+   <li>Set up a virtual environment.</li> 
+</ol>
+      <h2> Acquire Data:</h2>
+      <p>Gather relevant image or video datasets.</p>
 
-    <h2>Setup Environment:</h2>
-    <ol>
-        <li>Install Python.</li>
-        <li>Set up a virtual environment.</li>
-        <li>Install required libraries like OpenCV and TensorFlow.</li>
-    </ol>
+<h2></h2>
+<p></p>
 
-    <h2>Acquire Data:</h2>
-    <p>Gather relevant image or video datasets.</p>
+  
 
     <h2>Explore Tutorials:</h2>
     <p>Familiarize with tutorials and documentation for OpenCV and TensorFlow.</p>
