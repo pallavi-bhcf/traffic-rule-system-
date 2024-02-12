@@ -304,7 +304,7 @@ This project is licensed under the MIT License [MIT](https://choosealicense.com/
 
 Your Name - sharmapallavibhcf@gmail.com
 
-Project Link: [https://github.com/pallavi-bhcf/traffic-rule-system-.git]()
+Project Link: https://github.com/pallavi-bhcf/traffic-rule-system-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
