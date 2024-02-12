@@ -76,10 +76,6 @@ Built With</P>
 </div>
 <br /><br />
 
-<h3><strong>
-The technology employs sensors, cameras, and advanced algorithms to track crowd size, density, and movement patterns. It aids in preventing overcrowding, managing crowd flow, and responding promptly to potential security threats or emergencies. The deployment of crowd detection systems reflects a growing recognition of the importance of leveraging technology to ensure the well-being of individuals in crowded spaces and to optimize the overall management of public events and areas.
-</strong></h3>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
