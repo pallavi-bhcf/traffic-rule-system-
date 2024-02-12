@@ -78,11 +78,13 @@ Built With</P>
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+The technologies ,tools and the framework used to develop this project are listed below<br>
+*  [![Computer Vision](https://img.shields.io/badge/Computer_Vision-333333?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_vision)
 * [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-* [![dlib](https://img.shields.io/badge/dlib-4B0082?style=for-the-badge&logo=dlib&logoColor=white)](http://dlib.net/)
+* [![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_learning)
+* [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+* [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
+* [![Cascade Trainer](https://img.shields.io/badge/Cascade_Trainer-00AEEF?style=for-the-badge)](https://docs.opencv.org/2.4/doc/user_guide/ug_traincascade.html)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -92,7 +94,22 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 <p align="Justify">
-The Traffic Rules Violation Detection and Monitoring System is designed to automate the process of monitoring and enforcing traffic regulations within a specific area, such as a campus environment. By utilizing Computer Vision techniques, the system can detect various traffic rule violations, including overspeeding, triple riding, and failure to wear helmets. This guide will walk you through the initial setup and usage of the system.
+Setup Environment :
+- Install Python.
+- Set up a virtual environment.
+- Install required libraries like OpenCV and TensorFlow.
+Acquire Data:
+- Gather relevant image or video datasets.
+Explore Tutorials:
+- Familiarize with tutorials and documentation for OpenCV and TensorFlow.
+Start Simple:
+- Begin with basic examples to understand image processing and object detection.
+Train Models:
+- Train deep learning models using transfer learning and fine-tuning.
+Evaluate and Iterate :
+- Evaluate model performance and iterate for improvement.
+Integration and Deployment :
+- Integrate models into your application and deploy as needed.
 </P>
 <br>
 
