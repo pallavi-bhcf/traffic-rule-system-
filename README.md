@@ -94,7 +94,7 @@ The technologies ,tools and the framework used to develop this project are liste
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## <h1>Getting Started</h1>
 <p align="Justify">
 <h4>setup Enivronmet</h4>
 <ol>
