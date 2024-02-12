@@ -154,11 +154,11 @@ efficiency of transportation systems.</p>
 <ul>
  
   <li><strong>Server:</strong></li><br>
-  <p>A robust server infrastructure to host the crowd detection system. Consider using a high-performance server with sufficient processing power and memory to handle real-time data processing and analysis.</p>
+  <p>A robust server infrastructure to host the traffic detection system. Consider using a high-performance server with sufficient processing power and memory to handle real-time data processing and analysis.</p>
   <br>
 
   <li><strong>Processor:</strong></li><br>
-  <p>Multi-core processor capable of handling the computational requirements for image processing, machine learning, and real-time crowd analysis.</p>
+  <p>Multi-core processor capable of handling the computational requirements for image processing, machine learning, and real-time traffic violation analysis.</p>
   <br>
 
   <li><strong>RAM:</strong></li><br>
@@ -176,11 +176,8 @@ efficiency of transportation systems.</p>
     <li><strong>Operating System</strong></li>
     <p>Linux or Windows Server, depending on the chosen software and infrastructure. Linux is often preferred for its stability and security in server environments.</p>
     <br>
-    <li><strong>Client Devices:</strong></li>
-    <p>No specific software requirements for client devices, as the crowd detection system is accessed through a web browser. Users may benefit from a modern browser supporting HTML5 for optimal user experience.     </p>
-    <br>
    <li><strong>Libraries and Frameworks:</strong></li>
-    <p>Utilize computer vision libraries (OpenCV) for image processing, deep learning frameworks (TensorFlow or keras) for crowd analysis, and web development frameworks (Flask or Django) for building the user       interface.</p>
+    <p>Utilize computer vision libraries (OpenCV) for image processing, deep learning frameworks (TensorFlow or keras) for traffic violation analysis, and web development frameworks (Flask or Django) for building the user       interface.</p>
     <br>
     <li><strong>Networking:</strong></li>
     <p>Implement secure networking protocols to facilitate communication between the server, surveillance cameras, and other connected devices. Consider encryption mechanisms to ensure data privacy and integrity.
@@ -192,7 +189,7 @@ efficiency of transportation systems.</p>
 <!-- INSTALLATION -->
 ### Installation
 
-Follow these steps to install and set up the crowd detection system:
+Follow these steps to install and set up the :
 <ul>
  
   <li>Set Up Python Environment:</li><br>
@@ -202,24 +199,23 @@ Follow these steps to install and set up the crowd detection system:
   
   <li>Install Required Libraries:</li><br>
   
-  - Install OpenCV and TensorFlow using pip:
+  - Install OpenCV  using pip:
 
       pip install opencv <br>
-      pip install tensorflow
     <br>
   
   <li>Download Pre-trained Models:</li><br>
 
-  - Choose a pre-trained model for crowd detection. For example, you can use a MobileNet SSD model trained on the COCO dataset.
+  - Choose a pre-trained model for traffic violation system detection. For example, you can use a MobileNet SSD model trained on the COCO dataset.
   <br>
 
-  <li>Write Crowd Detection Code: </li><br>
+  <li>Write Traffic Violation System Detection Code: </li><br>
 
-  - Create a Python script or Jupyter notebook to perform crowd detection using OpenCV and TensorFlow. Load the pre-trained model, process video frames, and detect crowds.
+  - Create a Python script or Jupyter notebook to perform traffic violation system for  detection using OpenCV . Load the pre-trained model, process video frames, and detect crowds.
  
   <br>
 
-  <li>Test Your Crowd Detection System:  </li><br>
+  <li>Test Your Traffic Violation  Detection System:  </li><br>
 
   - Use sample videos or webcam input to test your crowd detection system.
 
@@ -228,7 +224,7 @@ Follow these steps to install and set up the crowd detection system:
    <li>Documentation and Deployment:  </li><br>
    
   - Document your code, including details on how to use it, dependencies, and potential configuration options.
-  - If applicable, consider deploying your crowd detection system in a production environment.
+  - If applicable, consider deploying your Traffic Violation  detection system in a production environment.
    
   <br>
   
@@ -257,11 +253,48 @@ Contributions are welcome! Fork the repo, create a feature branch, commit change
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## USAGE
+<br>
+The Smart Traffic Light project offers a versatile solution to the ever-growing problem of traffic
+congestion in urban areas. By leveraging advanced image processing techniques and intelligent
+algorithms, this project introduces a proactive approach to traffic management.
+<br>
+
+One of the primary benefits of the Smart Traffic Light system is its ability to detect and respond
+to traffic congestion in real-time. Traditional traffic management systems often rely on fixed
+timing schedules for traffic signals, which may not effectively adapt to fluctuating traffic
+conditions. However, with Smart Traffic Light, the system dynamically adjusts signal timing
+based on live traffic data obtained through camera modules. This allows for optimized traffic flow
+and reduced congestion on the roads.<br>
+
+Moreover, the project's integration of hardware and software components enables seamless
+communication and coordination between traffic signals. The Raspberry Pi microprocessor
+board serves as the central hub for processing traffic data and controlling signal timing. Custom
+Python scripts are used to implement the intelligent algorithms that govern traffic signal
+adjustments, ensuring efficient and reliable operation.<br>
+
+Another significant advantage of Smart Traffic Light is its potential for scalability and adaptability.
+As traffic patterns evolve and urban areas continue to grow, this project can be easily expanded
+and customized to suit different environments and traffic scenarios. Additionally, its open-source
+nature allows for community collaboration and ongoing development, ensuring that the system
+remains up-to-date and responsive to emerging traffic management needs.
+Overall, the Smart Traffic Light project offers a promising solution to address traffic congestion
+challenges, ultimately improving road safety, reducing travel times, and enhancing the overall
+efficiency of transportation systems.
+<br>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
+This project is licensed under the MIT License [MIT](https://choosealicense.com/licenses/mit/)
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -270,9 +303,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - 2022d1r003@mietjammu.in
+Your Name - sharmapallavibhcf@gmail.com
 
-Project Link: [https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git](https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git)
+Project Link: [https://github.com/pallavi-bhcf/traffic-rule-system-.git]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -282,7 +315,17 @@ Project Link: [https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git](https:
 ## Acknowledgments
 
 <p align="Justify">
-The accomplishment of this Major Project report on “CROWD DETECTION SYSTEM” benefits of the guidance, moral support and encouragement bestowed on me throughout my work period. For this, I wish to express my sincere gratitude and appreciation to all those who gave me the possibility to complete this report. I would like to acknowledge with much appreciation, the crucial role of the faculty of MCA department of MIET, Jammu, who gave me permission to use all the resources and material required to complete my report. I cannot express enough thanks to Prof. Ankur Gupta for their continued support and encouragement to work on my own and discover new things in this field. Lastly, I must offer my sincere appreciation for the receipt of affectionate care and opportunities to Model Institute of Engineering and Technology (MIET) for providing me with such a wonderful work environment. My accomplishment of this report could not have been possible without the support of my classmates and my family, who provided me with love, support and encouragement when times got rough.
+The completion of the "Traffic Rules Violation Detection and Monitoring System" project has been made possible through the support, guidance, and encouragement of various individuals and organizations. I would like to express my sincere gratitude to all those who have contributed to this project in different capacities.
+<br>
+I would like to acknowledge the crucial role of the Model Institute of Engineering and Technology (MIET), Jammu. Their permission to utilize all necessary resources and materials has been instrumental in the completion .
+<br>
+Furthermore, I extend my heartfelt appreciation to the entire MIET community for providing an enriching environment conducive to learning and growth. Their support has played a significant role in shaping this project.
+<br>
+I would also like to express my gratitude to my classmates and my family for their unwavering love, support, and encouragement. Their belief in me has been a constant source of motivation, especially during challenging times.
+<br>
+Lastly, I would like to thank all individuals and organizations whose work and contributions have inspired and informed this project. Your insights and innovations have been invaluable in the development of this file.
+<br>
+Thank you to everyone involved in making this project a reality.
 </p>
 
 
