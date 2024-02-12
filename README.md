@@ -65,8 +65,8 @@ image capture, and custom Python scripts for data processing and control. Throug
 seamless integration of hardware and software, the project aims to achieve a more efficient and
 responsive traffic control system. Ultimately, the Smart Traffic Light system holds the potential to
 significantly reduce traffic congestion and enhance road safety in urban environments, offering a
-promising solution to modern traffic management challenges.
-Built With</P>
+promising solution to modern traffic management challenges.<br>
+</P>
     <div align="center">
   </a>
 </div>
@@ -98,18 +98,25 @@ Setup Environment :
 - Install Python.
 - Set up a virtual environment.
 - Install required libraries like OpenCV and TensorFlow.
+  <br>
 Acquire Data:
 - Gather relevant image or video datasets.
+  <br>
 Explore Tutorials:
 - Familiarize with tutorials and documentation for OpenCV and TensorFlow.
+  <br>
 Start Simple:
 - Begin with basic examples to understand image processing and object detection.
+  <br>
 Train Models:
 - Train deep learning models using transfer learning and fine-tuning.
+  <br>
 Evaluate and Iterate :
 - Evaluate model performance and iterate for improvement.
+  <br>
 Integration and Deployment :
 - Integrate models into your application and deploy as needed.
+  <br>
 </P>
 <br>
 
