@@ -291,7 +291,6 @@ efficiency of transportation systems.
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 This project is licensed under the MIT License [MIT](https://choosealicense.com/licenses/mit/)
-Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
@@ -317,14 +316,19 @@ Project Link: [https://github.com/pallavi-bhcf/traffic-rule-system-.git]()
 <p align="Justify">
 The completion of the "Traffic Rules Violation Detection and Monitoring System" project has been made possible through the support, guidance, and encouragement of various individuals and organizations. I would like to express my sincere gratitude to all those who have contributed to this project in different capacities.
 <br>
+  
 I would like to acknowledge the crucial role of the Model Institute of Engineering and Technology (MIET), Jammu. Their permission to utilize all necessary resources and materials has been instrumental in the completion .
 <br>
+
 Furthermore, I extend my heartfelt appreciation to the entire MIET community for providing an enriching environment conducive to learning and growth. Their support has played a significant role in shaping this project.
 <br>
+
 I would also like to express my gratitude to my classmates and my family for their unwavering love, support, and encouragement. Their belief in me has been a constant source of motivation, especially during challenging times.
 <br>
+
 Lastly, I would like to thank all individuals and organizations whose work and contributions have inspired and informed this project. Your insights and innovations have been invaluable in the development of this file.
 <br>
+
 Thank you to everyone involved in making this project a reality.
 </p>
 
@@ -337,24 +341,22 @@ Thank you to everyone involved in making this project a reality.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- Technology Shields and URLs -->
+[ComputerVision.shield]: https://img.shields.io/badge/Computer_Vision-333333?style=for-the-badge
+[ComputerVision.url]: https://en.wikipedia.org/wiki/Computer_vision
+
 [OpenCV.shield]: https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
 [OpenCV.url]: https://opencv.org/
+
+[DeepLearning.shield]: https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge
+[DeepLearning.url]: https://en.wikipedia.org/wiki/Deep_learning
 
 [Python.shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python.url]: https://www.python.org/
 
-[Keras.shield]: https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white
-[Keras.url]: https://keras.io/
+[RaspberryPi.shield]: https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white
+[RaspberryPi.url]: https://www.raspberrypi.org/
 
-[TensorFlow.shield]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-[TensorFlow.url]: https://www.tensorflow.org/
+[CascadeTrainer.shield]: https://img.shields.io/badge/Cascade_Trainer-00AEEF?style=for-the-badge
+[CascadeTrainer.url]: https://docs.opencv.org/2.4/doc/user_guide/ug_traincascade.html
 
-[ML.shield]: https://img.shields.io/badge/Machine_Learning_Algorithms-4285F4?style=for-the-badge&logo=google&logoColor=white
-[ML.url]: https://www.javatpoint.com/machine-learning-algorithms
-
-[Cloud.shield]: https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-[Cloud.url]: https://www.javatpoint.com/introduction-to-cloud-computing
-
-[HCI.shield]: https://img.shields.io/badge/Human_Computer_Interaction-673AB7?style=for-the-badge&logo=human&logoColor=white
-[HCI.url]: https://www.tutorialspoint.com/human_computer_interface/human_computer_interface_introduction.htm
 
