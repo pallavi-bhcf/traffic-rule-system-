@@ -52,14 +52,14 @@ Technology Domain: Image and Video Processing, Computer Vision.
 microprocessor technology. Aimed at alleviating traffic congestion, the system utilizes image
 processing techniques to detect traffic jams and dynamically adjust traffic signals accordingly.
 By integrating hardware and software components, the project aims to efficiently control signal
-timing and phasing, thereby optimizing traffic flow on roads.
+timing and phasing, thereby optimizing traffic flow on roads.<br>
 The Raspberry Pi serves as the central processing unit, storing crucial software and managing
 data from various components, including cameras and sensors. Python scripts are custom-built
 to facilitate the system's functionality. The project's objective is to enhance traditional traffic light
 systems by intelligently routing vehicle and pedestrian traffic based on real-time traffic
 conditions. By accurately recording vehicle counts and analyzing image data, the system can
 make instantaneous adjustments to mitigate congestion and improve overall traffic
-management.
+management.<br>
 Key components of the system include the Raspberry Pi microprocessor, camera modules for
 image capture, and custom Python scripts for data processing and control. Through the
 seamless integration of hardware and software, the project aims to achieve a more efficient and
@@ -67,10 +67,6 @@ responsive traffic control system. Ultimately, the Smart Traffic Light system ho
 significantly reduce traffic congestion and enhance road safety in urban environments, offering a
 promising solution to modern traffic management challenges.
 Built With</P>
-<br /><br />
-    <br />
-    <br />
-    <br />
     <div align="center">
   </a>
 </div>
