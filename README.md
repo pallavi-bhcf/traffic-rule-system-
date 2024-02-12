@@ -96,7 +96,7 @@ The technologies ,tools and the framework used to develop this project are liste
 <!-- GETTING STARTED -->
 ## <h1>Getting Started</h1>
 <p align="Justify">
-<h4>setup Enivronmet</h4>
+<h3>setup Enivronmet</h3>
 <ol>
   <li>install Python</li>
   <li>Set up a virtual environment.</li>
