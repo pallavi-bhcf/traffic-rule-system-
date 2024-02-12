@@ -94,29 +94,34 @@ The technologies ,tools and the framework used to develop this project are liste
 <!-- GETTING STARTED -->
 ## Getting Started
 <p align="Justify">
-Setup Environment :
-- Install Python.
-- Set up a virtual environment.
-- Install required libraries like OpenCV and TensorFlow.
-  <br>
-Acquire Data:
-- Gather relevant image or video datasets.
-  <br>
-Explore Tutorials:
-- Familiarize with tutorials and documentation for OpenCV and TensorFlow.
-  <br>
-Start Simple:
-- Begin with basic examples to understand image processing and object detection.
-  <br>
-Train Models:
-- Train deep learning models using transfer learning and fine-tuning.
-  <br>
-Evaluate and Iterate :
-- Evaluate model performance and iterate for improvement.
-  <br>
-Integration and Deployment :
-- Integrate models into your application and deploy as needed.
-  <br>
+<h1>Computer Vision Project</h1>
+
+    <h2>Setup Environment:</h2>
+    <ol>
+        <li>Install Python.</li>
+        <li>Set up a virtual environment.</li>
+        <li>Install required libraries like OpenCV and TensorFlow.</li>
+    </ol>
+
+    <h2>Acquire Data:</h2>
+    <p>Gather relevant image or video datasets.</p>
+
+    <h2>Explore Tutorials:</h2>
+    <p>Familiarize with tutorials and documentation for OpenCV and TensorFlow.</p>
+
+    <h2>Start Simple:</h2>
+    <p>Begin with basic examples to understand image processing and object detection.</p>
+
+    <h2>Train Models:</h2>
+    <p>Train deep learning models using transfer learning and fine-tuning.</p>
+
+    <h2>Evaluate and Iterate:</h2>
+    <p>Evaluate model performance and iterate for improvement.</p>
+
+    <h2>Integration and Deployment:</h2>
+    <p>Integrate models into your application and deploy as needed.</p>
+
+
 </P>
 <br>
 
