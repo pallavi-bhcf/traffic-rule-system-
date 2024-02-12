@@ -96,7 +96,7 @@ The technologies ,tools and the framework used to develop this project are liste
 <!-- GETTING STARTED -->
 ## <h1>Getting Started</h1>
 <p align="Justify">
-<h3>setup Enivronmet</h3>
+<h3>Setup Enivronmet</h3>
 <ol>
   <li>install Python</li>
   <li>Set up a virtual environment.</li>
@@ -105,61 +105,46 @@ The technologies ,tools and the framework used to develop this project are liste
       <h3> Acquire Data:</h3>
       <p>Gather relevant image or video datasets.</p>
 
-<h3></h3>
-<p></p>
+<h3>Explore Tutorials:</h3>
+<p>Familiarize with tutorials and documentation for OpenCV and TensorFlow.</p>
 
   
+<h3>Start Simple:</h3>
+<P>Begin with basic examples to understand image processing and object detection.</P>
 
-    <h2>Explore Tutorials:</h2>
-    <p>Familiarize with tutorials and documentation for OpenCV and TensorFlow.</p>
+<h3>Train Models:</h3>
+<P>Train deep learning models using transfer learning and fine-tuning.</P>
 
-    <h2>Start Simple:</h2>
-    <p>Begin with basic examples to understand image processing and object detection.</p>
+<h3>Evaluate and Iterate :</h3>
+<P>Evaluate model performance and iterate for improvement.</P>
 
-    <h2>Train Models:</h2>
-    <p>Train deep learning models using transfer learning and fine-tuning.</p>
+<h3>Integration and Deployment :</h3>
+<P>Integrate models into your application and deploy as needed.</P>
 
-    <h2>Evaluate and Iterate:</h2>
-    <p>Evaluate model performance and iterate for improvement.</p>
-
-    <h2>Integration and Deployment:</h2>
-    <p>Integrate models into your application and deploy as needed.</p>
-
-
-</P>
 <br>
 
 ### What it does
 <br>
-The Traffic Rules Violation Detection and Monitoring System uses Computer Vision techniques to automatically detect traffic rule violations within a campus environment. The system is capable of detecting violations such as overspeeding, triple riding, and failure to wear helmets
+<p>The project, Smart Traffic Light, utilizes the Raspberry Pi microprocessor board to optimize road
+usage and alleviate traffic congestion. By incorporating image processing techniques and
+intelligent algorithms, it aims to detect traffic jams and intelligently manage traffic signals.
+Traditional traffic lights are augmented with this system to dynamically adjust signal timing
+based on real-time vehicle and pedestrian traffic data. This proactive approach helps mitigate
+congestion and improve overall traffic flow.</p>
 
-<ul>
-  <li><b>Detection Capabilities:</b>
-  Overspeeding: The system can detect vehicles exceeding the speed limit within the campus premises.
-Triple Riding: Innovative feature of the system includes accurate detection of triple riding on motorcycles, contributing to safer traffic management.
-Helmet Detection: The system identifies instances where riders fail to wear helmets, promoting helmet safety.
-
-    </li>
-  <br>
-  
-  
-
-Detection Capabilities:
-Overspeeding: The system can detect vehicles exceeding the speed limit within the campus premises.
-Triple Riding: Innovative feature of the system includes accurate detection of triple riding on motorcycles, contributing to safer traffic management.
-Helmet Detection: The system identifies instances where riders fail to wear helmets, promoting helmet safety.
-        </li>
   <br>
 
 <!-- WHY IT'S USEFUL -->
 ### Why it's Useful
 <br>
-The Traffic Rules Violation Detection and Monitoring System addresses the challenges associated with managing traffic and enforcing traffic laws within a campus environment. Here's why it's useful:
-<ul><br>
-Automated Detection: The system automates the process of identifying traffic rule violations, reducing the need for manual monitoring and enforcement.
-Enhanced Safety: By detecting violations such as overspeeding and failure to wear helmets, the system contributes to enhancing safety for campus residents and commuters.
-Efficient Traffic Management: With accurate detection capabilities, the system enables more efficient traffic management, leading to smoother flow of vehicles within the campus.
-Data Insights: The system provides valuable data insights into traffic patterns and rule violations, which can be used for future planning and decision-making regarding traffic regulations.
+<p>Smart Traffic Light offers a practical solution to the pervasive problem of traffic congestion,
+especially in urban areas like Pune, Bengaluru, and Mumbai. With the increasing number of
+vehicles on the road outpacing infrastructure development, conventional traffic management
+systems struggle to keep pace. This project addresses the need for efficient traffic management
+by leveraging technology to dynamically regulate traffic signals. By reducing congestion and
+optimizing traffic flow, it enhances road safety, reduces travel times, and improves the overall
+efficiency of transportation systems.</p>
+<br>
 
 <!-- PREREQUISITES -->
 ### Prerequisites
