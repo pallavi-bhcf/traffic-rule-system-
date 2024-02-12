@@ -36,6 +36,7 @@ Technology Domain: Image and Video Processing, Computer Vision.
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
+     <li><a href="#Usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -253,7 +254,7 @@ Contributions are welcome! Fork the repo, create a feature branch, commit change
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## USAGE
+## Usage
 <br>
 The Smart Traffic Light project offers a versatile solution to the ever-growing problem of traffic
 congestion in urban areas. By leveraging advanced image processing techniques and intelligent
