@@ -53,6 +53,7 @@ microprocessor technology. Aimed at alleviating traffic congestion, the system u
 processing techniques to detect traffic jams and dynamically adjust traffic signals accordingly.
 By integrating hardware and software components, the project aims to efficiently control signal
 timing and phasing, thereby optimizing traffic flow on roads.<br>
+   
 The Raspberry Pi serves as the central processing unit, storing crucial software and managing
 data from various components, including cameras and sensors. Python scripts are custom-built
 to facilitate the system's functionality. The project's objective is to enhance traditional traffic light
@@ -60,6 +61,7 @@ systems by intelligently routing vehicle and pedestrian traffic based on real-ti
 conditions. By accurately recording vehicle counts and analyzing image data, the system can
 make instantaneous adjustments to mitigate congestion and improve overall traffic
 management.<br>
+   
 Key components of the system include the Raspberry Pi microprocessor, camera modules for
 image capture, and custom Python scripts for data processing and control. Through the
 seamless integration of hardware and software, the project aims to achieve a more efficient and
@@ -94,16 +96,16 @@ The technologies ,tools and the framework used to develop this project are liste
 <!-- GETTING STARTED -->
 ## Getting Started
 <p align="Justify">
-<h2>setuo Enivronmet</h2>
+<h3>setup Enivronmet</h3>
 <ol>
-  <li>nstall Python</li>
+  <li>install Python</li>
   <li>Set up a virtual environment.</li>
    <li>Set up a virtual environment.</li> 
 </ol>
-      <h2> Acquire Data:</h2>
+      <h3> Acquire Data:</h3>
       <p>Gather relevant image or video datasets.</p>
 
-<h2></h2>
+<h3></h3>
 <p></p>
 
   
